@@ -1,0 +1,18 @@
+{
+    "type":"object",
+    "properties":{
+        
+        "id":{
+            "type":"string"
+        },
+        "version":{
+            "type":"string"
+        },
+        "name":{
+            "type":"string"
+        }
+		           },
+    "xml":{
+        "name":"integration"
+    }
+}
